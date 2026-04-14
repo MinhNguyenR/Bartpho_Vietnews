@@ -159,8 +159,7 @@ Dự án này sử dụng license MIT. Xem file LICENSE để biết thêm chi t
 Nếu bạn có câu hỏi hoặc cần hỗ trợ:
 
 - Tạo issue trên GitHub: [Bartpho_Vietnews](https://github.com/MinhNguyenR/Bartpho_Vietnews)
-- Email: minhnguyen@example.com
-- LinkedIn: [Minh Nguyen](https://linkedin.com/in/minhnguyen)
+- Email: nguyendangtuongminh555@gmail.com
 
 ---
 
